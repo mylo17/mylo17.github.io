@@ -1,0 +1,96 @@
+baseURL = 'https://mylo17.github.io/'
+languageCode = 'en-us'
+title = 'Milo Restelli'
+theme ='hello-friend-ng'
+
+enableEmoji= true
+
+
+
+[author]
+  name = "Made with 💙 by Mylo"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+
+
+  # Subtitle for home
+  homeSubtitle = "Student // Aspiring software developer"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+
+
+  author= "Milo Restelli"
+  # Metadata mostly used in document's head
+  description = "The personal website of Milo Restelli"
+  keywords = "homepage, blog"
+  images = [""]
+  enableThemeToggle = true
+
+  [params.logo]
+    logoText = "~"
+    logoHomeLink = "/"
+    logoMark     = ">"
+    logoCursorColor    = "#19F00B "
+
+
+  [[params.social]]
+    name="email"
+    url="mailto:milo.restelli@gmail.com"
+
+  [[params.social]]
+    name="github"
+    url= "https://github.com/Mylo17"
+
+  [[params.social]]
+    name="telegram"
+    url="https://t.me/WeLoveYouMylo"
+
+  [params.footer]
+    trademark = false
+    rss = false
+    copyright = false
+    author = true
+
+
+
+[menu]
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "uses"
+    name       = "Uses"
+    url        = "/uses"
+    weight=3
+
+
+  [[menu.main]]
+    identifier="about"
+    name="About"
+    url="/about"
+    weight=1
+  # [[menu.main]]
+  #  identifier="blog"
+  #  name="Blog"
+  #  url="/posts"
+  #  weight=2
+  [[menu.main]]
+    identifier='cv'
+    name='CV'
+    url='./CV-Milo-Restelli.pdf'
+    weight=4
+
+[blackfriday]
+  hrefTargetBlank = true
+
