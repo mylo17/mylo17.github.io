@@ -71,14 +71,14 @@ enableEmoji= true
   [[menu.main]]
     identifier = "uses"
     name       = "Uses"
-    url        = "/uses"
+    url        = "/uses/"
     weight=3
 
 
   [[menu.main]]
     identifier="about"
     name="About"
-    url="/about"
+    url="/about/"
     weight=1
   # [[menu.main]]
   #  identifier="blog"
