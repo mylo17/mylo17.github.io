@@ -1,7 +1,7 @@
 ---
 title: 'Uses'
 date: 2022-02-12T14:23:27+01:00
-draft: true
+draft: false
 ---
 
 ![neofetch](/img/neofetch.png)
