@@ -1,4 +1,4 @@
-baseURL = 'https://mylo17.github.io'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Milo Restelli'
 theme ='hello-friend-ng'
