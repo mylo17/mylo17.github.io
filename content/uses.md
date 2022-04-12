@@ -6,7 +6,7 @@ draft: false
 
 ![neofetch](/img/neofetch.png)
 
-This is my uses pages inspired by Wes Bos's [uses.tech](https:uses.tech).
+This is my uses pages inspired by Wes Bos's [uses.tech](https://uses.tech).
 Here you can find some of my favourite tools and app that i use on a daily basis
 
 ## Hardware
