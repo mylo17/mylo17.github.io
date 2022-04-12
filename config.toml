@@ -87,8 +87,8 @@ enableEmoji= true
   #  weight=2
   [[menu.main]]
     identifier='cv'
-    name='CV'
-    url='./CV-Milo-Restelli.pdf'
+    name='Resume'
+    url='./Milo_s_Resume.pdf'
     weight=4
 
 [blackfriday]

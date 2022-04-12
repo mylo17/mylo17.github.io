@@ -20,5 +20,3 @@ eesmpio:
 
 This part is written in sublime text!
 img
-
-
