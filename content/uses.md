@@ -28,6 +28,6 @@ Here you can find some of my favourite tools and app that i use on a daily basis
 
 ## Development Apps
 
-- [Visual Studio Code](https://code.visualstudio.com) - My favourite all around editor for almost any language. Here you can find my [configuration](https://link) and [extension's list](https://link)
-- [Windows Terminal](https://github.com/microsoft/terminal) - By far the best terminal experience on Windows.
+- [Visual Studio Code](https://code.visualstudio.com) - My favourite all around editor for almost any language. Here you can find my [configuration](https://gist.github.com/mylo17/2939f5f98b1c1e8b94fa566a799ccdea) and [extension's list](https://gist.github.com/mylo17/e765d79dc4cbe7bc18681f202eea4f14)
+- [Windows Terminal](https://github.com/microsoft/terminal) - By far the best terminal experience on Windows. [Settings here](https://gist.github.com/mylo17/3efee1fb216105576cc836cc3ef18220)
 - [Eclipse](https://eclipse.org) - Don't really like it that much but i use it for more complex Java projects that VSCode does not handle well
