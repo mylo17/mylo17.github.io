@@ -18,7 +18,7 @@ Here you can find some of my favourite tools and app that i use on a daily basis
   - Ram: Corsair Vengeance 16 gb
   - GPU: Radeon RX550
 
-## Geneal Apps
+## General Apps
 
 - [Chrome](https://google.com/chrome) - My browser of choice, very fast with a polished look
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - The best for privacy focused browsing coupled with [DuckDuckGo](https://duckduckgo.com/)
